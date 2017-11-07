@@ -10,7 +10,7 @@ date: 2017-10-13 21:30:20 +0300
     + added data from project jarāʾid
     + go (chronologically) through Sente:
         * permits
-        * censorship: done until 1902-12-31
+        * censorship: done until 1908-07-31
     + add date from the index to Thamarāt al-Funūn 
 - do basic descriptive statistics in R
     + done
