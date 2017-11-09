@@ -28,7 +28,13 @@ include-after: <footer><span class="c_info c_license"><a rel="license" href="htt
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1039570.svg)](https://doi.org/10.5281/zenodo.1039570)
 </div>
 
-# Intro
+# About {#sec-about}
+
+>This paper is a draft to be presented at MESA Annual Meeting 2017 in Washington, DC.
+
+>The first stable draft of this paper will be version [v0.1](https://rawgit.com/tillgrallert/p53a1128b/v0.1/index.html) and it still contains unprocessed references to sources and secondary literature, cross-references, and CriticMarkup. To comment / review / annotate that version via hypothes.is click [here](https://via.hypothes.is/https://rawgit.com/tillgrallert/p3601db9e/v0.1/index.html). The most recent changes are available [here](https://tillgrallert.github.io/p53a1128b/gh-pages/index.html) and can be annotated [here](https://via.hypothes.is/https://tillgrallert.github.io/p53a1128b/gh-pages/index.html).
+
+# Introduction {#sec-intro}
 
 Ever since Ahmet Elmin Alman and Fīlīb dī Ṭarrāzī (Philip de Tarrazi ), who published their works on the eve of World War I, the history of the periodical press in the Ottoman Empire and its Arabic speaking provinces in the Eastern Mediterranean has received continuous scholarly attention.[^cf2] For a long time these endeavours have been both encyclopaedic and anecdotal in nature. Compiled by local scholars, many of them themselves journalists, these works adhered to a specific political view of Arab nationalism and regularly neglected references to the object of their study, the periodical press itself, as a source.[^cf3] After the publication of a wave of union catalogues of periodicals,[^cf4] individual publishers and periodicals became the subject of critical scholarly scrutiny for the intellectual history of the *naḥda* and Arabic nationalism in Lebanon and Egypt from the 1970s onwards.[^cf5] Being mostly concerned with intellectual history, scholars focussed, and still focus for a large part on opinion pieces and editorials published in journals rather than the mundane news press. At the same time, the profane history of the papers themselves was relegated to the margins.[^cf6] Two noteworthy exceptions to this rule are Donald Cioeta's work on the history of *Thamarāt al-Funūn* and censorship in Ottoman Beirut[^cf7] and Ami Ayalon's extensive writings on the press in the Arab Middle East.[^cf8] Detailed studies on longer---if not entire---periods of individual publication are still lacking beyond Cioeta's unpublished thesis and Dagmar Glaß' study on *al-Muqtaṭaf*.[^cf9] 
 
@@ -42,7 +48,7 @@ While the large picture of Arabic periodical publication in the Eastern Mediterr
 
 On the following pages, I will provide the legal framework under which periodicals in Beirut and Damascus operated and short publication histories of the periodicals employed for this thesis. I will introduce the reading public and the network of authors, editors, and censors as the writing public of Damascus to whose gaze on local affairs the historian's scrutiny is limited. Finally, I will turn to the question of censorship.
 
-# 1.1. Laws and newspapers: the ever expanding modernising state and the question of censorship 
+# 1.1 Laws and newspapers: the ever expanding modernising state and the question of censorship {#sec-laws}
 
 >The typical press regime developed in three stages. In the first stage, newspapers were official and editing was the same as censorship. Privately owned, but officially subsidized, newspapers came next. For obvious reasons, these were also self-censored. Finally, when newspapers became financially independent, whether by circulation revenues, private financing, or advertising, their potential power forced the state to decide between reliance on social consensus and enactment of press censorship laws to control the contents of the periodical press. The Ottoman Empire, like most of its contemporary states, chose the latter.[^cf21]
 
@@ -249,7 +255,7 @@ At about the same time, in mid-March 1912, the newspapers in Beirut were made to
 
 Other papers followed tactics of transformation similar to *al-Muqtabas*':[^cf192] Whenever one iteration was banned from publication, they re-appeared under a new and slightly different title. Thus, ʿAbd al-Ghanī al-ʿUraysī's daily{>> ?<<} *al-Mufīd*, published in Beirut since February 1909, was banned in May 1912 and re-appeared as *Ṣadā al-Mufīd* only a few days later. In September *Ṣadā al-Mufīd* was also suspended and resumed publication as *Lisān al-ʿArab*, which was succeeded by *al-Fatā al-ʿArab* within five days of publication. The later was banned in November 1913, but ʿAbd al-Ghanī al-ʿUraysī acquired the permit for resuming publication by December. This final iteration was ultimately banned from publication in July 1914.[^cf193] Tellingly, Rashīd Ridā's *al-Manār* reported this as the suspension of *al-Mufīd*.[^cf194] ʿAbd al-Ghanī al-ʿUraysī was executed on 6 May 1916 in Beirut.[^cf195]
 
-# 1.4. The realities of censorship
+# 1.2 The realities of censorship {#sec-censorship}
 
 Returning to the original question to which extent my sources are biased and gendered by official censorship and an internalised *habitus* of their publishers and editors, I will provide a short overview of the traceable reality of censorship in Ottoman Lebanon, based on Cioeta's groundbreaking study and my own research. Cioeta provided a table of warnings, suspensions, and bans of periodicals published by *Thamarāt al-Funūn* and *al-Iqbāl*, which I was able to substantially augment{>> wording?<<} with data from other Beiruti and Damascene newspapers (see Table 1.2). Most importantly, I was able to check collections of some of these newspapers for actual gaps in publication dates corresponding to issued suspensions.[^cf395] {>>Do we have some findings to present?<<}
 
@@ -303,7 +309,7 @@ The other pertinent case were reports on physical violence. Newspapers reported 
 2. Inter-communal violence. Reports on any such events were much less common than those on crime proper and were potentially more challenging to the prevailing order. Yet, if such violence was short-lived or if it was indeed subdued by state agents, coverage of these incidents could provide legitimacy for the pacifying and mediating state. This most certainly was the case in the violent battles between youths of the Greek Catholic community in Bāb Tūmā and the Greek Orthodox community of the Mīdān on occasion of a burial on a disputed graveyard in 1878[^cf433] or the clashes between Muslims from Qaymariyya and ʿAmāra and Christians from Bāb Tūmā in 1884.[^cf434] However, over the course of the following decades reports cease to be published even when the authorities took an active role in containing the violence, such as during the blood libel of Easter / Passover 1890,[^cf435] which was probably due to regulations prohibiting the publication of any news that could instigate religious strife or stir the minds of the people (*takhdīsh adhhān al-ahālī*). 
 3. Outright rebellions against the state and state agents (including mutinying officials and soldiers). As we will see in the final chapters of this thesis, such incidents were rather rare and reports on them even less frequent. Usually the events reported on occurred on the geographic and ethno-religious margins or outside the province. The focus is on the response of the authorities. Reports on slaughtered villagers provide the legitimacy for calling out conscripts and despatching them to the scene of the violence in response. Thus, one is confronted with hundreds of reports on rebellious bandits (*ashqiyā*) among the Druze, the Bedouins, and the Circassian refugees (to a much lesser degree this is true for the Kurds) of the Ḥawrān, the Lajā, and the deserts to the East. In absence of any reports to the contrary, the city of Damascus emerged as the peaceful seat of the {>> legitimate<<}authorities.
 
-# Notes
+# Notes {#sec-notes}
 
 [^cf1]: {Farah 1977@158}
 
