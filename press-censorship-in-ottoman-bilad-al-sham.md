@@ -32,7 +32,7 @@ include-after: <footer><span class="c_info c_license"><a rel="license" href="htt
 
 >This paper is a draft to be presented at MESA Annual Meeting 2017 in Washington, DC. It is based on a chapter of my dissertation titled "To whom belong the streets? Property, propriety, and appropriation: The production of public space in late Ottoman Damascus, 1875-1914" (FU Berlin, 2014). To quote this draft please use the DOI displayed above.
 
->The current stable draft of this paper is version [v0.1](https://rawgit.com/tillgrallert/p53a1128b/v0.1/index.html) and it still contains unprocessed references to sources and secondary literature, cross-references, and CriticMarkup. To comment / review / annotate that version via hypothes.is click [here](https://via.hypothes.is/https://rawgit.com/tillgrallert/p3601db9e/v0.1/index.html). The most recent changes are available [here](https://tillgrallert.github.io/p53a1128b/index.html).
+>The current stable draft of this paper is version [v0.2](https://rawgit.com/tillgrallert/p53a1128b/v0.1/index.html) and it still contains unprocessed references to sources and secondary literature, cross-references, and CriticMarkup. To comment / review / annotate that version via hypothes.is click [here](https://via.hypothes.is/https://rawgit.com/tillgrallert/p53a1128b/v0.2/index.html). The most recent changes are available [here](https://tillgrallert.github.io/p53a1128b/index.html).
 
 # Introduction {#sec-intro}
 
