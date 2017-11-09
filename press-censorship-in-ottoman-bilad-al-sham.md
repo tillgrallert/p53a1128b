@@ -23,7 +23,7 @@ include-after: <footer><span class="c_info c_license"><a rel="license" href="htt
 <!-- licence -->
 [![CC BY-ND 4.0](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nd/4.0/)
 <!-- release -->
-[![GitHub release](https://img.shields.io/github/release/tillgrallert/p53a1128b.svg?maxAge=2592000)](https://github.com/tillgrallert/p53a1128b/releases)
+[![GitHub release](https://img.shields.io/github/release/tillgrallert/p53a1128b.svg)](https://github.com/tillgrallert/p53a1128b/releases)
 <!-- DOI -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1039570.svg)](https://doi.org/10.5281/zenodo.1039570)
 </div>
