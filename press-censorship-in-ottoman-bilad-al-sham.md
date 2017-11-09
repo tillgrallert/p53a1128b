@@ -1,5 +1,5 @@
 ---
-title:
+title: "Press censorship in Ottoman Bilād al-Shām"
 author: Till Grallert
 date: 2017-10-31 11:19:15 +0200
 ORCID: orcid.org/0000-0002-5739-8094
@@ -10,6 +10,12 @@ markdown:
 - CriticMarkup
 include-after: <footer><span class="c_info c_license"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.</span></footer>
 ---
+
+<!-- # processing instructions -->
+<!-- ## 1. HTML -->
+<!-- pandoc -F pandoc-crossref -s -S -f markdown -t html5 --toc --include-in-header=/BachUni/programming/Pandoc/css-pandoc_online-publication.txt --include-in-header=/BachUni/programming/Pandoc/css-pandoc_code-highlight_oxygen-xml.txt --email-obfuscation=javascript press-censorship-in-ottoman-bilad-al-sham.md -o index.html -->
+<!-- ## 2. DOCX -->
+<!-- pandoc -F pandoc-crossref -s -S -f markdown -t docx press-censorship-in-ottoman-bilad-al-sham.md -o press-censorship-in-ottoman-bilad-al-sham.docx -->
 
 <div id="sec-badges" class="c_badges">
 <!-- ORCID -->
