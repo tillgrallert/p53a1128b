@@ -9,9 +9,10 @@ date: 2017-10-13 21:30:20 +0300
 - improve the table / event catalogue for acts of censorship regarding the periodical press in Bilād al-Shām
     + added data from project jarāʾid
     + go (chronologically) through Sente:
-        * permits
-        * censorship: done until 1914-12-31
+        * permits: done until spring 1909
+        * censorship: done
     + add date from the index to Thamarāt al-Funūn 
+    + differentiate between permit and first issue
 - do basic descriptive statistics in R
     + done
 - generate plots showing the clustering of censorship by type, newspaper, location
