@@ -1,5 +1,5 @@
 ---
-title: "Press censorship in Ottoman Bilād al-Shām"
+title: "Authoritarianism versus liberty of speech? The theory and practices of press censorship in *Bilād al-Shām* (1875--1914)"
 author: Till Grallert
 date: 2017-10-31 11:19:15 +0200
 ORCID: orcid.org/0000-0002-5739-8094
@@ -30,7 +30,7 @@ include-after: <footer><span class="c_info c_license"><a rel="license" href="htt
 
 # About {#sec-about}
 
->This paper is a draft to be presented at MESA Annual Meeting 2017 in Washington, DC. It is based on a chapter of my dissertation titled "To whom belong the streets? Property, propriety, and appropriation: The production of public space in late Ottoman Damascus, 1875-1914" (FU Berlin, 2014). To quote this draft please use the DOI displayed above.
+>This paper is a draft to be presented at MESA Annual Meeting 2017 in Washington, DC, as part of the panel "Regulating Print in the late Ottoman Empire: a new look into the question of censorship" organised by Kathryn Schwartz and myself. It is based on a chapter of my dissertation titled "To whom belong the streets? Property, propriety, and appropriation: The production of public space in late Ottoman Damascus, 1875-1914" (FU Berlin, 2014). To cite this draft please use the DOI displayed above.
 
 >The current stable draft of this paper is version [v0.2](https://rawgit.com/tillgrallert/p53a1128b/v0.2/index.html) and it still contains unprocessed references to sources and secondary literature, cross-references, and CriticMarkup. To comment / review / annotate that version via hypothes.is click [here](https://via.hypothes.is/https://rawgit.com/tillgrallert/p53a1128b/v0.2/index.html). The most recent changes are available [here](https://tillgrallert.github.io/p53a1128b/index.html).
 
